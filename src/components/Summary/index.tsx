@@ -6,7 +6,7 @@ export function Summary() {
     <SummaryContainer>
       <SummaryCard>
         <header>
-          <span>inFlows</span>
+          <span>InFlows</span>
           <ArrowCircleUp size={32} color="#00b37e" />
         </header>
 
@@ -15,7 +15,7 @@ export function Summary() {
 
       <SummaryCard>
         <header>
-          <span>outFlows</span>
+          <span>OutFlows</span>
           <ArrowCircleDown size={32} color="#f75a68" />
         </header>
 
@@ -24,7 +24,7 @@ export function Summary() {
 
       <SummaryCard variant="green">
         <header>
-          <span>ammount</span>
+          <span>Amount</span>
           <CurrencyDollar size={32} color="#fff" />
         </header>
 
