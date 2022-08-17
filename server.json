@@ -15,6 +15,14 @@
       "category": "Food",
       "price": 59,
       "createdAt": "2022-08-12T20:33:24.313Z"
+    },
+    {
+      "id": 3,
+      "description": "Real state",
+      "type": "outcome",
+      "category": "Rent",
+      "price": 3800,
+      "createdAt": "2022-08-05T20:33:24.313Z"
     }
   ]
 }
