@@ -23,6 +23,30 @@
       "category": "Rent",
       "price": 3800,
       "createdAt": "2022-08-05T20:33:24.313Z"
+    },
+    {
+      "description": "Stocks",
+      "category": "Sell",
+      "price": 1000,
+      "type": "income",
+      "createdAt": "2022-08-19T18:51:46.731Z",
+      "id": 4
+    },
+    {
+      "description": "teste ",
+      "category": "teste",
+      "price": 6000,
+      "type": "outcome",
+      "createdAt": "2022-08-19T19:09:15.036Z",
+      "id": 5
+    },
+    {
+      "description": "Last test",
+      "category": "test",
+      "price": 600,
+      "type": "outcome",
+      "createdAt": "2022-08-19T21:36:45.013Z",
+      "id": 6
     }
   ]
 }
