@@ -31,38 +31,6 @@
       "type": "income",
       "createdAt": "2022-08-19T18:51:46.731Z",
       "id": 4
-    },
-    {
-      "description": "First test",
-      "category": "Test",
-      "price": 1400,
-      "type": "outcome",
-      "createdAt": "2022-08-19T19:09:15.036Z",
-      "id": 5
-    },
-    {
-      "description": "Last test",
-      "category": "Test",
-      "price": 600,
-      "type": "outcome",
-      "createdAt": "2022-08-19T21:36:45.013Z",
-      "id": 6
-    },
-    {
-      "description": "aa little service",
-      "category": "Renevue",
-      "price": 250,
-      "type": "income",
-      "createdAt": "2022-08-20T15:31:42.662Z",
-      "id": 7
-    },
-    {
-      "description": "btc",
-      "price": 900,
-      "category": "invest",
-      "type": "outcome",
-      "createdAt": "2022-08-21T16:41:58.574Z",
-      "id": 8
     }
   ]
 }
