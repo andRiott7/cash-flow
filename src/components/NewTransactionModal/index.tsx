@@ -33,12 +33,12 @@ export function NewTransactionModal() {
   })
 
   async function handleCreateNewTransaction(data: NewTransactionFormInputs) {
-    await api.post('transactions', {
+
+    await createTransaction({
       description: data.description,
       category: data.category,
       price: data.price,
-      type: data.type,
-      createdAt: new Date()
+      type: data.type
     })
 
     reset()
